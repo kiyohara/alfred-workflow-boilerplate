@@ -19,3 +19,7 @@
 
 ![The flow](flow.png)
 
+## Download
+
+* [Alfred workflow boilerplate.alfredworkflow](https://github.com/kiyohara/alfred-workflow-boilerplate/raw/master/Alfred%20workflow%20boilerplate.alfredworkflow)
+
